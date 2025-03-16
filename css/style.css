@@ -129,7 +129,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Bai Jamjuree", serif;
+  font-family: "Bai Jamjuree", sans-serif;
   font-weight: 700;
   color: #ffffff;
   margin: 0px 0px 1rem;
@@ -320,7 +320,7 @@ figure.caption.alignright {
   margin-bottom: 20px;
   display: inline-block;
   text-transform: uppercase;
-  font-family: "Bai Jamjuree", serif;
+  font-family: "Bai Jamjuree", sans-serif;
 }
 
 .section-title .title {
@@ -2167,7 +2167,7 @@ section:has(.rounded-section) {
 }
 
 .action-box.action-box-style-02 .action-box-content .title {
-  font-family: "Bai Jamjuree", serif;
+  font-family: "Bai Jamjuree", sans-serif;
   font-size: 36px;
   font-weight: 700;
   text-transform: capitalize;
@@ -2837,7 +2837,7 @@ section:has(.rounded-section) {
 }
 
 .service-fancy .service-item .service-title {
-  font-family: "Bai Jamjuree", serif;
+  font-family: "Bai Jamjuree", sans-serif;
   font-size: 30px;
   font-weight: 700;
   line-height: 42px;
@@ -3212,7 +3212,7 @@ section:has(.rounded-section) {
   font-size: 22px;
   line-height: 32px;
   font-weight: 600;
-  font-family: "Bai Jamjuree", serif;
+  font-family: "Bai Jamjuree", sans-serif;
   color: #ffffff;
   display: inline-block;
 }
@@ -3677,14 +3677,14 @@ section:has(.rounded-section) {
 
 .counter .counter-info .counter-title {
   display: inline-block;
-  font-family: "Bai Jamjuree", serif;
+  font-family: "Bai Jamjuree", sans-serif;
   font-size: 20px;
   line-height: 28px;
   font-weight: 600;
 }
 
 .counter .counter-number {
-  font-family: "Bai Jamjuree", serif;
+  font-family: "Bai Jamjuree", sans-serif;
   display: flex;
   align-items: center;
   gap: 3px;
@@ -3969,7 +3969,7 @@ section:has(.rounded-section) {
 
 .trusted-client {
   font-size: 20px;
-  font-family: "Bai Jamjuree", serif;
+  font-family: "Bai Jamjuree", sans-serif;
   font-weight: 600;
   line-height: 32px;
   margin-bottom: 40px;
@@ -4831,7 +4831,7 @@ section:has(.rounded-section) {
 
 .pricing-box .pricing-header .title {
   color: #000000;
-  font-family: "Bai Jamjuree", serif;
+  font-family: "Bai Jamjuree", sans-serif;
   font-size: 32px;
   font-weight: 600;
   line-height: 42px;
@@ -4857,7 +4857,7 @@ section:has(.rounded-section) {
 .pricing-box .pricing-price .price-currency {
   font-size: 18px;
   font-weight: 600;
-  font-family: "Bai Jamjuree", serif;
+  font-family: "Bai Jamjuree", sans-serif;
   line-height: 1;
   align-self: flex-start;
   color: #000000;
@@ -4869,7 +4869,7 @@ section:has(.rounded-section) {
   font-weight: 600;
   line-height: .8;
   color: #000000;
-  font-family: "Bai Jamjuree", serif;
+  font-family: "Bai Jamjuree", sans-serif;
 }
 
 .pricing-box .pricing-price .after-price {
@@ -4888,7 +4888,7 @@ section:has(.rounded-section) {
   font-weight: 600;
   margin-top: 7px;
   color: #000000;
-  font-family: "Bai Jamjuree", serif;
+  font-family: "Bai Jamjuree", sans-serif;
   line-height: normal;
   letter-spacing: normal;
   text-transform: none;
@@ -6212,7 +6212,7 @@ input[type="search"]::-webkit-search-cancel-button {
 }
 
 .marquee-wrapper .marquee-inner .marquee-item .title {
-  font-family: "Bai Jamjuree", serif;
+  font-family: "Bai Jamjuree", sans-serif;
   font-size: 80px;
   font-weight: 700;
   line-height: normal;
@@ -6628,7 +6628,7 @@ input[type="search"]::-webkit-search-cancel-button {
 .video-wrapper.video-style-2 .video-btn-wrapper span {
   font-size: 20px;
   line-height: 32px;
-  font-family: "Bai Jamjuree", serif;
+  font-family: "Bai Jamjuree", sans-serif;
   font-weight: 600;
   color: #ffffff;
 }
@@ -7766,7 +7766,7 @@ header.header.header-sticky.is-sticky .navbar .navbar-brand img.sticky {
 .main-banner-1 .banner-content .banner-info .call-center-box a {
   font-size: 22px;
   line-height: 32px;
-  font-family: "Bai Jamjuree", serif;
+  font-family: "Bai Jamjuree", sans-serif;
   font-weight: 600;
   color: #ffffff;
 }
@@ -7817,7 +7817,7 @@ header.header.header-sticky.is-sticky .navbar .navbar-brand img.sticky {
   align-items: center;
   margin-bottom: 15px;
   text-transform: uppercase;
-  font-family: "Bai Jamjuree", serif;
+  font-family: "Bai Jamjuree", sans-serif;
 }
 
 .main-banner.main-banner-2 .banner-conent .title {
@@ -8943,7 +8943,7 @@ body:has(#search.open):before {
 }
 
 .coming-soon-section .countdown-wrapper .countdown span {
-  font-family: "Bai Jamjuree", serif;
+  font-family: "Bai Jamjuree", sans-serif;
 }
 
 .inner-content {
@@ -8961,7 +8961,7 @@ body:has(#search.open):before {
   line-height: 70px;
   font-weight: 700;
   color: #ffffff;
-  font-family: "Bai Jamjuree", serif;
+  font-family: "Bai Jamjuree", sans-serif;
 }
 
 .coming-soon-description {
@@ -10281,7 +10281,7 @@ body:has(#search.open):before {
   font-size: 20px;
   line-height: 26px;
   font-weight: bold;
-  font-family: "Bai Jamjuree", serif;
+  font-family: "Bai Jamjuree", sans-serif;
   color: #ffffff;
 }
 
@@ -11595,7 +11595,7 @@ body:has(#search.open):before {
 
 .widget-recent-posts .recent-posts .post-info .post-title {
   color: #ffffff;
-  font-family: "Bai Jamjuree", serif;
+  font-family: "Bai Jamjuree", sans-serif;
   font-size: 18px;
   line-height: 24px;
   display: -webkit-box;
