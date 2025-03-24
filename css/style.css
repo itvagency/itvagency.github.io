@@ -2382,13 +2382,13 @@ section:has(.rounded-section) {
   border-color: #23a455;
 }
 
-.awards-wrapper .awards-item:hover .item-inner .awards-year,
+/* .awards-wrapper .awards-item:hover .item-inner .awards-year,
 .awards-wrapper .awards-item:hover .item-inner .awards-city,
 .awards-wrapper .awards-item:hover .item-inner .awards-name,
 .awards-wrapper .awards-item:hover .item-inner .awards-description {
   opacity: 0;
   pointer-events: none;
-}
+} */
 
 .awards-wrapper .awards-item:hover .awards-action {
   z-index: 8;
